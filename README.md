@@ -1,24 +1,4 @@
 # blogg_app
 
-## Project setup
-```
-npm install
-```
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/71601381/128392182-19730af8-4968-4a90-b140-fe0ec5145a3e.gif)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
