@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 219,
+      "title": "post 1",
+      "body": "lorem",
+      "tags": ["html", "css"]
+    },
+    {
+      "id": 9991,
+      "title": "Post 2",
+      "body": "lorem",
+      "tags": ["React.Js", "Vue.Js"]
+    }
+  ]
+}
